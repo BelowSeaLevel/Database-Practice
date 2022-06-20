@@ -1,0 +1,13 @@
+H:\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\bin\Debug\DataBase Practice.exe.config
+H:\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\bin\Debug\DataBase Practice.exe
+H:\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\bin\Debug\DataBase Practice.pdb
+H:\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\obj\Debug\DataBase Practice.csprojAssemblyReference.cache
+H:\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\obj\Debug\DataBase Practice.csproj.CoreCompileInputs.cache
+H:\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\obj\Debug\DataBase Practice.exe
+H:\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\obj\Debug\DataBase Practice.pdb
+C:\Portfolio CSharp\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\bin\Debug\DataBase Practice.exe.config
+C:\Portfolio CSharp\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\bin\Debug\DataBase Practice.exe
+C:\Portfolio CSharp\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\bin\Debug\DataBase Practice.pdb
+C:\Portfolio CSharp\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\obj\Debug\DataBase Practice.csprojAssemblyReference.cache
+C:\Portfolio CSharp\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\obj\Debug\DataBase Practice.exe
+C:\Portfolio CSharp\ConsoleApplications CSharp\DataBase Practice\DataBase Practice\DataBase Practice\obj\Debug\DataBase Practice.pdb
